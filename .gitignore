@@ -1,6 +1,7 @@
 VOCdevkit/
 models/
 .ipynb_checkpoints/
+objects/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
